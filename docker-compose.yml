@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mtest:
+    image: ${DOCKER_REGISTRY}mtest
+    build:
+      context: .
+      dockerfile: MTest/Dockerfile
