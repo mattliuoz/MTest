@@ -21,9 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\MTest.Services\MTest.Services.csproj" />
     <ProjectReference Include="..\MTest.Domain\MTest.Data.csproj" />
-    <ProjectReference Include="..\MTest.Infra\MTest.Infra.csproj" />
+    <ProjectReference Include="..\MTest.Services\MTest.Services.csproj" />
   </ItemGroup>
 
 </Project>
