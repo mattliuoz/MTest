@@ -1,5 +1,7 @@
 # About my commits
-I just did one commit for everything, which is not good. If this is going to be a real life solution, I will have multiple small commits with meaning commit messages.
+I just did few commists for everything, which is not good. If this is going to be a real life solution, I will have multiple small commits with meaning commit messages.
+# SDK
+It's using dotnet core 2.1
 
 # Database
 I am using SQL Server as data storage, which because I have it setup locally. If this is going to be a real life solution, I will probably consider to use DynamoDB or Azure Cosmos DB.
